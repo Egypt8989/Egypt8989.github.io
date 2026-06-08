@@ -105,7 +105,7 @@ h2 {
   display: block;
   border-radius: 16px;
   filter: grayscale(100%);
-  box-shadow: 0 8px 30px rgb(9, 240, 5);
+  box-shadow: 0 8px 30px rgb(3, 184, 249);
   transition:
     filter 0.4s ease,
     transform 0.4s ease,
@@ -195,8 +195,8 @@ nav h1 {
 }
 
 #portfolio a:hover {
-  background: #000;
-  color: #fff;
+  background: #0893ef;
+  color: #210af1;
   transform: translateX(4px);
 }
 
